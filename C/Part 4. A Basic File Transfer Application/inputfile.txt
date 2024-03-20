@@ -1,0 +1,6 @@
+output.txt
+This
+is
+the
+fourth
+part
